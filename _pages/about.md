@@ -34,7 +34,8 @@ Entre los años 2015 y 2016 vuelvemos a publicar dos nuevos discos, uno con can
 Desde el 2018 hasta la actualidad formo parte del grupo Gallo Rojo:
 - Las cuentas del corazón 2020
 
- ## Docencia y publicaciones 
+ ## Docencia y publicaciones 
+
 Actualmente trabaja como docente desde 1999 en el Conservatorio Profesional de Música "Reveriano Soutullo" Municpal de Ponteareas donde soy profesor titular de las asignaturas de Guitarra Clásica e Historia de la Música.
 Publicaciones
 [Franco, Fernando. 2022. 40 años de moda en Galicia. Santiago de Compostela: Guiverni] (Fernández-Tapias participa na presentación do libro do periodista vigués Fernando Franco 40 años de moda en Galicia - Xunta de Galicia)

@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About Me
+title: Sobre mi
 permalink: /about/
 ---
-![Esta es una imagen de ejemplo](./images/aaff.png)
+
+![Esta es una imagen de ejemplo](/images/aaff.png)
+
 ## Bio
 
 Me llamo Silvino Díaz Carreras. Soy docente de música. Profesor de guitarra e Historia de la Música en el conservatorio profesional de música Reveriano SoutullSilvino Díaz Carreras. Naccido en Vigo en 1962.
@@ -34,7 +36,7 @@ Entre los años 2015 y 2016 vuelvemos a publicar dos nuevos discos, uno con can
 Desde el 2018 hasta la actualidad formo parte del grupo Gallo Rojo:
 - Las cuentas del corazón 2020
 
- ## Docencia y publicaciones 
+ ## Docencia y publicaciones 
 
 Actualmente trabaja como docente desde 1999 en el Conservatorio Profesional de Música "Reveriano Soutullo" Municpal de Ponteareas donde soy profesor titular de las asignaturas de Guitarra Clásica e Historia de la Música.
 Publicaciones

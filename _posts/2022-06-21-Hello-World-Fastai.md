@@ -1,5 +1,5 @@
 ---
-title: "Hello World: I 've started with Fastai've started with Fastai"
+title: "Hello World: I've started with Fastai"
 description: I intend to put in writing my experience with Deep Learning from Jeremy and Rachel's course, Fastai.
 toc: true
 comments: true

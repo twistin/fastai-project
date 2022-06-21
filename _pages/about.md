@@ -22,11 +22,11 @@ Me llamo Silvino Díaz Carreras. Soy docente de música. Profesor de guitarra e 
 Soy titulado Superior en Música en la especialidad de guitarra. Licenciado en Historia y Ciencias de la Música. Diploma de Estudios Avanzados (DEA) en la Universdidad de Barcelona en el programa interuniversitario de doctorado, Música en la España Contemporánea.
 
 
- ## Docencia y publicaciones 
+ ## Docencia y publicaciones 
 
 Actualmente trabaja como docente desde 1999 en el Conservatorio Profesional de Música "Reveriano Soutullo" Municpal de Ponteareas donde soy profesor titular de las asignaturas de Guitarra Clásica e Historia de la Música.
 
-## Publicaciones
+## Publicaciones
 - [Franco, Fernando. 2022. 40 años de moda en Galicia. Santiago de Compostela: Guiverni] (Fernández-Tapias participa na presentación do libro do periodista vigués Fernando Franco 40 años de moda en Galicia - Xunta de Galicia)
 
 - Escenas musicales locais hoxe en día. ¿Unha ferramenta válida? Escenas musicais locais hoxe en día. ¿ Unha ferramenta válida?] (https://www.researchgate.net/publication/319329248_Escenas_musicais_locais_hoxe_e n_dia_Unha_ferramenta_valida))

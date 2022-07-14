@@ -22,6 +22,8 @@ In the lesson 3 video, Jeremy recommends writing posts about the Fastai learning
 
 My personal experience, when I wanted to implement Fastpages in Gihub, was really disappointing and frustrating. It really took me several days to get the blog up and running. And to do that, I decided to discourage the publication of my posts on Github Pages, because it turned out to be an arkano. I must say, I had doubts if the problem could be due to the use of a specific operating system, in my case Mac, but I also tried with Windows 10 and the result was always the same. The site query, http://twistin.github.io/fastai-project/, always seemed to return the same result, a nice and disheartening '404' page.
 
+![Esta es una imagen de ejemplo](/images/404.png)
+
 At this point, I decided to change my strategy and not waste any more time in the business of publishing my website on Github Pages. In between, a handful of questions and queries on the Fastai and Github forums in the hope of finding the solution to a situation that was starting to become very annoying.
 
 The solution was simpler than you might expect and that was to use Netlify.

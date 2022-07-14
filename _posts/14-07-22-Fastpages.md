@@ -11,6 +11,8 @@ author: sdCarr
 
 My blogging experience and Fastpages.
 
+![Esta es una imagen de ejemplo](/images/fastpages.png)
+
 I have to say, it is not easy for me to be constant in writing texts to be published in the Fastpages blog that I have implemented to narrate and publish my learning experience with Fastai.
 What is Fastpages? Fastpages is a platform that allows you to create and host a blog for free, without ads and with many useful features.
 These include writing in markdown, embedding Twitter cards, videos from YouTube, categorising posts with tags, Github support for comments, etc...

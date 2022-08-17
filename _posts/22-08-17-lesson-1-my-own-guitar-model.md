@@ -137,7 +137,7 @@ The differences with the training of the first lesson (Is it a bird?) are clear,
 
 ![Esta es una imagen de show_batch_guitars](/images/train2.png)
 
-## Step3: prediction 
+## Step3: How well does the model work? 
 Let's see what our model thinks about the guitars we downloaded at the beginning, we start first with a Telecaster:
 
 ```python

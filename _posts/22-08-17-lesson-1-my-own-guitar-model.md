@@ -15,7 +15,7 @@ author: sdCarr
 
 In this publication, I will explain my learning process and experience with my first contact with my own training model. The intention was to create a model that would recognise or be able to discern between two brands of electric guitar. . One was a Fender Telecaster model and the other a Gibson Les Paul model.
 
-### Step 1: Download images of Fender Telecaster and Gibson Les Paul guitars
+## Step1: Download images of Fender Telecaster and Gibson Les Paul guitars
 
 The first thing I have done is to prepare the ground to address the issue, to create a model that differentiates two brands-models of electric guitars.. To do this, I installed the fastai library for downloading Duck Duck Go images. `!pip install -Uqq fastai duckduckgo_search`
 Next I defined the function that will allow me to download 30 images of each of the two search terms: `def search_images(term, max_images=30)`
@@ -104,6 +104,8 @@ Searching for 'gibson-les paul shade photo'
     ```
 
 In this case I got two incorrect pictures, which by means of the code above are automatically unlinked.
+
+## Step2
 To train a model, we will need DataLoaders, which is an object containing a training set (the images used to create a model) and a validation set (the images used to check the accuracy of a model -- not used during training). In fastai we can easily create that using a DataBlock, and see sample images from it:
 
 ```python
@@ -128,13 +130,13 @@ fastai comes with a useful fine_tune() method that automatically uses best pract
 learn = vision_learner(dls, resnet18, metrics=error_rate)
 learn.fine_tune(3)
 ```
-![Esta es una imagen de show_batch_guitars](./images/train.png)
+![Esta es una imagen de show_batch_guitars](/images/train.png)
 
 The differences with the training of the first lesson (Is it a bird?) are clear, my model performs clearly worse. While in my model the error rate is 0.060606 starting from an initial 0.545455 in the bird model it is 0.000000. The same could be said for the other parameters. I guess the difference was the pre-trained model that didn't work so well with my model:
 
-![Esta es una imagen de show_batch_guitars](./images/train2.png)
+![Esta es una imagen de show_batch_guitars](/images/train2.png)
 
-## Paso3
+## Step3
 Let's see what our model thinks about the guitars we downloaded at the beginning, we start first with a Telecaster:
 
 ```python

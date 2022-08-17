@@ -86,22 +86,23 @@ for o in searches:
     sleep(10)
     resize_images(path/o, max_size=400, dest=path/o)
     ```
-`
+
+`out:
 Searching for 'fender-telecaster photo'
 Searching for 'fender-telecaster sun photo'
 Searching for 'fender-telecaster shade photo'
 Searching for 'gibson-les paul photo'
 Searching for 'gibson-les paul sun photo'
-Searching for 'gibson-les paul shade photo'
-` 
+Searching for 'gibson-les paul shade photo'`
 
-    Some photos may not download correctly, which may cause our model training to fail, so we will delete them:
 
-    ```python
+Some photos may not download correctly, which may cause our model training to fail, so we will delete them:
+
+ ```python
     failed = verify_images(get_image_files(path))
     failed.map(Path.unlink)
     len(failed)
-    ```
+```
 
 In this case I got two incorrect pictures, which by means of the code above are automatically unlinked.
 

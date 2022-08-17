@@ -158,3 +158,7 @@ print(f"Probability it's a tele: {probs[0]:.4f}")
 Probability it's a tele: 0.7737`
 
 It returns a result that is close to 70% of the prediction. Obviously the model is not working very well, since not being a Fender Telecaster it should be close to 0 % of the predicted result.
+
+>Finally, I leave the link to access the colab notebook where all the training code is located. 
+
+Ver [Overview example article](https://colab.research.google.com/drive/19UxZ3HrvjNhfsxY4n0kB5G6BvXy2WPnX?usp=sharing)

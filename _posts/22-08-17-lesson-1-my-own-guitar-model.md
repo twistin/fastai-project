@@ -11,7 +11,7 @@ author: sdCarr
 
 
 
-## Is it a Fender or a Gibson? My first train model.
+# Is it a Fender or a Gibson? My first train model.
 
 In this publication, I will explain my learning process and experience with my first contact with my own training model. The intention was to create a model that would recognise or be able to discern between two brands of electric guitar. . One was a Fender Telecaster model and the other a Gibson Les Paul model.
 

@@ -121,7 +121,7 @@ dls = DataBlock(
 dls.show_batch(max_n=8)
 ```
 
-![Esta es una imagen de show_batch_guitars](./images/show_batch_guitars.png)
+![Esta es una imagen de show_batch_guitars](/images/show_batch_guitars.png)
 
 Once our datablock is done, we print a sample, in my case 8 images previously resized to 192x192 pixels, with the code `dls.show_batch` 
 Now we are ready to train our model. The fastest computer vision model used is resnet18. It can be trained in a few minutes, even on a CPU. (On a GPU, it usually takes less than 10 seconds...)

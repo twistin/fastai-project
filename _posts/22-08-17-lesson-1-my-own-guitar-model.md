@@ -105,7 +105,8 @@ Searching for 'gibson-les paul shade photo'
 
 In this case I got two incorrect pictures, which by means of the code above are automatically unlinked.
 
-## Step2
+
+## Step2
 To train a model, we will need DataLoaders, which is an object containing a training set (the images used to create a model) and a validation set (the images used to check the accuracy of a model -- not used during training). In fastai we can easily create that using a DataBlock, and see sample images from it:
 
 ```python

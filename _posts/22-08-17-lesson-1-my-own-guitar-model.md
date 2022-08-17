@@ -69,7 +69,7 @@ Image.open('gibson-l.jpg').to_thumb(256,256)
 
 ![Esta es una imagen de guitar gibson](/images/gibson.png)
 
-Our searches have come up with the right results. So let's take a few examples of each of the "birds" and "forests" photos, and save each group of photos in a different folder (I'm also trying to take a range of lighting conditions here):
+Our searches have come up with the right results. So let's take a few examples of each of the "fender-tele" and "gibson-lespaul" photos, and save each group of photos in a different folder (I'm also trying to take a range of lighting conditions here):
 
 ```python
 searches = 'fender-telecaster','gibson-les paul'

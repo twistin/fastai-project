@@ -105,6 +105,7 @@ Some photos may not download correctly, which may cause our model training to fa
 ```
 
 In this case I got two incorrect pictures, which by means of the code above are automatically unlinked.
+
 ## Step2: To train the model
 To train a model, we will need DataLoaders, which is an object containing a training set (the images used to create a model) and a validation set (the images used to check the accuracy of a model -- not used during training). In fastai we can easily create that using a DataBlock, and see sample images from it:
 
@@ -136,7 +137,7 @@ The differences with the training of the first lesson (Is it a bird?) are clear,
 
 ![Esta es una imagen de show_batch_guitars](/images/train2.png)
 
-## Step3
+## Step3: prediction 
 Let's see what our model thinks about the guitars we downloaded at the beginning, we start first with a Telecaster:
 
 ```python

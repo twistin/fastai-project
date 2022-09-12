@@ -60,10 +60,9 @@ Apparently the folders created on the Colab server cannot be modified or deleted
 
 Another issue that gave me problems and that I couldn't solve was the bad training results, both 'train_loss', 'valid_loss' and 'error_rate' returned bad values. I tried to modify the CNN first with resnet14 and then resnet50. As well as fine_tune(), with value 4 first the result was the following:
 | epoch | train_loss | valid_loss | error_rate | time |
-|:-------------------:|---|---|---|---|
 | 0 | 1.259244	 | 5.038797	 | 0.486842 | 00:07 |
+
 | epoch | train_loss | valid_loss | error_rate | time |
-|:-------------------:|---|---|---|---|
 | 0	| 1.220864 | 1.106514 |	0.473684 |	00:07 |
 | 1	| 1.184358 | 1.731663 | 0.486842 |	00:07 |
 | 2	| 1.063790 | 1.548331 |	0.486842 |	00:07 |
